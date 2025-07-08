@@ -1,18 +1,109 @@
-# 💫 About Me:
-Software Engineer @Bosch | Building scalable data solutions on Azure.<br>Azure Data Engineer specializing in Data Factory, Databricks, and Synapse Analytics.<br>Data Pipeline Architect | Designing ETL/ELT workflows with PySpark & Python.<br>Azure Cloud Enthusiast | Proficient in Data Lakes, Delta Lake, and SQL DBs.<br>Collaborator | Open to data engineering projects involving Azure stack.<br>Continuous Learner | Mastering Spark optimization, Azure certifications, and data modeling.<br>Problem Solver | Transforming raw data into actionable insights.<br>
+# <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rajat Kumar Rathore</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Data Engineer GIF" width="500">
+</div>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@realrkrathore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@realrkrathore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatatgio@gmail.com) 
+## <div align="center">Azure Data Engineer | PySpark | Data Pipelines | Cloud Solutions</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=realrkrathore&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=realrkrathore&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realrkrathore&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/realrkrathore" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rajatatgio@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://bsky.app/profile/realrkrathore" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/16/46/24/1646243661201a0892cc4b1a64fcbacf.gif" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+Azure Data Engineer at Bosch specializing in building scalable data solutions on Microsoft Azure. Expert in designing and implementing data pipelines using Azure Data Factory, Databricks, and Synapse Analytics. Passionate about transforming raw data into actionable insights through efficient ETL/ELT workflows and optimized data architectures.
+
+- 🌍 Based in **India**
+- 🧠 Currently mastering **Spark optimization and advanced data modeling**
+- 🤝 Open to collaborations on **Azure data projects and open-source data tools**
+- ⚡ **Fun fact:** I can optimize a Spark job while drinking my morning coffee ☕
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="36" height="36" alt="Azure" title="Microsoft Azure"/>
+  </a>
+  <a href="https://pyspark.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="36" height="36" alt="PySpark" title="Apache Spark"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
+  </a>
+  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="36" height="36" alt="Kafka" title="Apache Kafka"/>
+  </a>
+  <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="36" height="36" alt="Airflow" title="Apache Airflow"/>
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" title="Pandas"/>
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" title="NumPy"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/>
+  </a>
+  <a href="https://delta.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/deltaio/deltaio-icon.svg" width="36" height="36" alt="Delta Lake" title="Delta Lake"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="http://www.github.com/realrkrathore">
+    <img src="https://github-readme-stats.vercel.app/api?username=realrkrathore&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="http://www.github.com/realrkrathore">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realrkrathore&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/realrkrathore">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realrkrathore&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=realrkrathore&theme=onedark&row=1&column=6" alt="trophy" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/realrkrathore/realrkrathore/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
+</div>
+
+## 📫 How to Reach Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realrkrathore)
+[![Email](https://img.shields.io/badge/Email-Send_me_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatatgio@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=realrkrathore&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
