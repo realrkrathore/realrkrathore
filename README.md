@@ -12,10 +12,7 @@
   </a>
   <a href="mailto:rajatatgio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://bsky.app/profile/realrkrathore" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
-  </a>
+  
 </p>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/16/46/24/1646243661201a0892cc4b1a64fcbacf.gif" />
