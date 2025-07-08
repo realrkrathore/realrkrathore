@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Data Engineer GIF" width="500">
 </div>
 
-## <div align="center">Azure Data Engineer | PySpark | Data Pipelines | Cloud Solutions</div>
+## <div align="center">Azure Data Engineer | PySpark | Data Pipelines | Databricks Solutions</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/realrkrathore" target="_blank">
