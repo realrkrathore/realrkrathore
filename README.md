@@ -87,7 +87,7 @@ Azure Data Engineer at Bosch specializing in building scalable data solutions on
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/realrkrathore/realrkrathore/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
+  <img src="https://raw.githubusercontent.com/realrkrathore/realrkrathore/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
 
 ## 📫 How to Reach Me
