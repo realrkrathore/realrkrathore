@@ -32,6 +32,12 @@ Azure Data Engineer at Bosch specializing in building scalable data solutions on
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="36" height="36" alt="Azure" title="Microsoft Azure"/>
   </a>
+  <a href="https://databricks.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="36" height="36" alt="Databricks" title="Databricks"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="36" height="36" alt="Azure Data Factory" title="Azure Data Factory"/>
+  </a>
   <a href="https://pyspark.apache.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="36" height="36" alt="PySpark" title="Apache Spark"/>
   </a>
